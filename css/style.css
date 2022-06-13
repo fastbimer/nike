@@ -149,7 +149,7 @@ body{
 }
 
 .groupa:hover{
-	opacity: 60%;
+	box-shadow: inset 0px 0px 25px #4ba9e9;
 }
 
 
